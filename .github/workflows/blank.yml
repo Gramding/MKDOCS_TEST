@@ -19,6 +19,6 @@ jobs:
     steps:
       - name: Display the path\
         run: |
-          import os
-          print(os.environ['PATH'])
+          pip install -r requirements.txt
+          mkdocs build --strict --verbose
         shell: python
