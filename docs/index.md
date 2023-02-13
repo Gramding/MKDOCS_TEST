@@ -3,8 +3,9 @@
 ### Ein link
 [[Eine seite]] 
 
-> [!todo] ein Block
+!!! Note ein Block
 jup ein block
+
 
 ### Eine Tabelle
 ja | nein
@@ -21,4 +22,7 @@ print lv_string.
 
 ![Ein Bild](1.png)
 
-
+### Eine Liste
+- [ ] 1 
+- [ ] 2
+- [ ] 3
