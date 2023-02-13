@@ -3,8 +3,8 @@
 ### Ein link
 [[Eine seite]] 
 
-!!! Note ein Block
-jup ein block
+> [!todo] Note ein Block
+> jup ein block
 
 
 ### Eine Tabelle
