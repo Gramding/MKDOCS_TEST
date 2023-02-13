@@ -1,5 +1,5 @@
 site_name: Dev-Wiki
-site_url: https://example.com
+site_url: https://gramding.github.io/MKDOCS_TEST/
 Home: index.md
 theme:
   name: material
